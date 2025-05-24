@@ -1,0 +1,40 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #f4f4f4;
+    color: #333;
+}
+.hero {
+    background: linear-gradient(to right, #0066cc, #00ccff);
+    color: white;
+    padding: 80px 20px;
+}
+.hero h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.hero .btn {
+    font-size: 18px;
+    padding: 10px 25px;
+    background-color: white;
+    color: #0077cc;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.features {
+    padding: 60px 0;
+}
+.features .col {
+    margin-top: 20px;
+}
+
+
+.job-post {
+    background: white;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+.job-post h3 {
+    margin-top: 0;
+}
